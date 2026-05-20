@@ -1,0 +1,4 @@
+# Treat jar archives as binary files
+*.jar binary
+*.png binary
+*.webp binary
