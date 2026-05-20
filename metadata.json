@@ -1,0 +1,6 @@
+{
+  "name": "Gallery",
+  "description": "A beautiful and interactive Gallery app to save, draw, share, and export photos in custom formats (JPEG, PNG, WEBP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
